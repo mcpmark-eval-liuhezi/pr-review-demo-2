@@ -11,3 +11,6 @@ A short checklist used for the review-workflow demo.
 - [ ] The reviewer leaves comments on specific lines
 - [ ] The author replies to every review comment
 - [ ] The review is submitted with a summary
+
+## Reviewer sign-off
+- [ ] The reviewer has signed off on the demo
